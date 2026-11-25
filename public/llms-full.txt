@@ -1,0 +1,111 @@
+# Full Portfolio Profile — Monish Gowda S R
+
+## Overview
+Monish Gowda S R is an early-career Full Stack Developer from Bengaluru, Karnataka, India, with a Bachelor of Engineering in Information Science and Engineering from MVJ College of Engineering, affiliated with Visvesvaraya Technological University (VTU). His primary development focus is the MERN stack: MongoDB, Express.js, React.js and Node.js. He has worked on full-stack applications involving frontend interfaces, backend APIs, database integration, authentication, application workflows, testing and third-party integrations.
+
+He is seeking entry-level and early-career opportunities in software development, full-stack development and web application development. He is open to connecting with recruiters, engineering teams, developers, students and technology professionals.
+
+Professional email: monish.gowda.sr.job@gmail.com
+
+## Education
+- Degree: Bachelor of Engineering (B.E.)
+- Specialization: Information Science and Engineering
+- Institution: MVJ College of Engineering, Bengaluru, Karnataka
+- University: Visvesvaraya Technological University (VTU)
+- Period: 2022–2026
+- Overall CGPA: 8.7/10
+
+The portfolio intentionally presents engineering education only; school and pre-university details are not included.
+
+## Internship Experience
+- Organization: Rooman Technologies Pvt. Ltd.
+- Role: Web Development with Gen AI Intern
+- Period: February 2026 – May 2026
+- Duration: 16 weeks
+- Mode: Hybrid, Bengaluru, Karnataka
+- Internship evaluation: 100/100
+- Worked on two MERN applications: Vehicle Service Management & Operations Platform and Task & Project Management System.
+- Resume documents 39 REST APIs across the two applications, JWT authentication, Express.js routing, MongoDB integration, 10 workflow stages and 13 functional modules.
+- Internship work included testing, debugging, correcting workflow inconsistencies and validating application data.
+
+## Technical Skills
+### Frontend
+HTML5, CSS3, JavaScript, React.js, Vite, Tailwind CSS.
+
+### Backend
+Node.js, Express.js, RESTful APIs.
+
+### Databases
+MongoDB, MongoDB Atlas, MySQL.
+
+### Authentication and security
+JSON Web Tokens (JWT), OTP verification, bcrypt, protected routes.
+
+### Integrations
+Razorpay, Cloudinary, Multer, jsPDF, Leaflet, OpenStreetMap.
+
+### Programming languages
+JavaScript, Java, Python, C, C++, SQL.
+
+### Data analysis and machine learning
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+### Tools
+Git, GitHub, Visual Studio Code, NPM, Postman, MongoDB Compass.
+
+## Certifications
+- Full Stack Web Development Certification — Prinston Smart Engineers (January 2026 – May 2026)
+- Ethical Hacking (Elite) — NPTEL, IIT Kharagpur (July 2025 – October 2025)
+
+## Projects
+### 1. Vehicle Service Management & Operations Platform
+Category: Full-Stack Web Application. Technology: MERN stack.
+
+A vehicle service management platform designed to streamline vehicle registration, service bookings, customer interactions and service-centre operations. The application brings customer-facing workflows and service-centre operations into a connected digital platform.
+
+Documented features include user registration, OTP and JWT authentication, vehicle and document management, service booking and date validation, staff assignment, service tracking, Razorpay payments, PDF invoices and cloud file storage, plus location features using Leaflet and OpenStreetMap.
+
+The supplied resume documents 24 REST APIs, 10 workflow stages, 8 core modules and 3 role-based portals. These figures are presented as project details from the resume.
+
+Technology stack: React.js, Vite, Node.js, Express.js, MongoDB, JWT, Razorpay, Cloudinary, Multer, jsPDF and Leaflet.
+Repository: https://github.com/MonishGowdaSR/Vehicle-Service-Management
+
+The portfolio includes a four-slot screenshot gallery. Genuine application screenshots will be added when supplied by the owner.
+
+### 2. Task & Project Management System
+Category: Full-Stack Web Application. Technology: MERN stack.
+
+A web-based task and project management application designed to organize projects, manage tasks, monitor progress and support day-to-day productivity through a centralized workflow.
+
+Documented features include project creation and management, task creation/updating/deletion, priority and status management, deadlines, authentication, protected routes, dashboards, search, filtering and progress monitoring.
+
+The supplied resume documents 15 REST APIs, 12 reusable React components, 5 functional modules and 3 protected dashboards.
+
+Technology stack: React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS and REST APIs.
+Repository: https://github.com/MonishGowdaSR/Task-and-Project-Management-System
+
+The portfolio includes a four-slot screenshot gallery. Genuine application screenshots will be added when supplied by the owner.
+
+### 3. Resume Screening AI Agent
+A project exploring AI and automation in resume screening and recruitment-related processes, including resume analysis, candidate information processing and AI-assisted screening concepts.
+Repository: https://github.com/MonishGowdaSR/resume-screening-ai-agent
+
+### 4. Stock Market Analysis
+A Python-based project focused on analysing stock market information and presenting it through analytical and visualization techniques.
+Repository: https://github.com/MonishGowdaSR/stock-market-analysis-python
+
+## Career Direction
+Primary roles of interest include Full Stack Developer, MERN Stack Developer, Junior Software Developer, entry-level Software Engineer, React.js Developer, Node.js Developer and Web Application Developer.
+
+## Personal Interests
+Cricket, gaming, technology exploration and continuous learning.
+
+## Professional Links
+- Email: monish.gowda.sr.job@gmail.com
+- LinkedIn: https://www.linkedin.com/in/monishgowdasr/
+- GitHub: https://github.com/MonishGowdaSR
+- Resume PDF: /resume/Monish_Gowda_S_R_Mern_Stack_Developer.pdf
+- Location: Bengaluru, Karnataka, India
+
+## Notes on Accuracy
+This profile is based on the owner's supplied resume and portfolio information. It does not claim full-time software engineering employment. Internship is represented as internship experience. No school or pre-university details are included. No client work, testimonials, unverified awards or proficiency percentages are invented. Project metrics are taken from the supplied resume. Project screenshot gallery tiles are visual placeholders, not screenshots of the actual applications. The current hero portrait is temporary and will be replaced when the owner supplies the final image.

@@ -1,0 +1,73 @@
+# Monish Gowda S R
+
+> Personal portfolio of Monish Gowda S R, an early-career Full Stack Developer based in Bengaluru, Karnataka, India.
+
+## Professional identity
+- Name: Monish Gowda S R
+- Role: Full Stack Developer | MERN Stack Developer
+- Primary focus: MERN stack (MongoDB, Express.js, React.js, Node.js)
+- Location: Bengaluru, Karnataka, India
+- Availability: Open to entry-level and early-career software development opportunities
+- Tagline: Turning ideas into engineered experiences.
+- Professional email: monish.gowda.sr.job@gmail.com
+
+## Education
+- Degree: Bachelor of Engineering (B.E.)
+- Specialization: Information Science and Engineering
+- Institution: MVJ College of Engineering, Bengaluru
+- University: Visvesvaraya Technological University (VTU)
+- Period: 2022–2026
+- Overall CGPA: 8.7/10
+
+## Internship
+- Organization: Rooman Technologies Pvt. Ltd.
+- Role: Web Development with Gen AI Intern
+- Period: February 2026 – May 2026
+- Duration: 16 weeks
+- Mode: Hybrid, Bengaluru, Karnataka
+- Internship evaluation: 100/100
+- Work included two MERN applications: Vehicle Service Management & Operations Platform and Task & Project Management System.
+- Resume documents 39 REST APIs across two applications, 10 workflow stages and 13 functional modules.
+
+## Technical skills
+- Frontend: HTML5, CSS3, JavaScript, React.js, Vite, Tailwind CSS
+- Backend: Node.js, Express.js, RESTful APIs
+- Databases: MongoDB, MongoDB Atlas, MySQL
+- Authentication and security: JWT, OTP verification, bcrypt, protected routes
+- Integrations: Razorpay, Cloudinary, Multer, jsPDF, Leaflet, OpenStreetMap
+- Programming languages: JavaScript, Java, Python, C, C++, SQL
+- Data and machine learning: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Tools: Git, GitHub, VS Code, NPM, Postman, MongoDB Compass
+
+## Certifications
+- Full Stack Web Development Certification — Prinston Smart Engineers (January 2026 – May 2026)
+- Ethical Hacking (Elite) — NPTEL, IIT Kharagpur (July 2025 – October 2025)
+
+## Projects
+### Vehicle Service Management & Operations Platform
+A MERN application for vehicle registration, service bookings, customer interactions and service-centre operations. The resume documents 24 REST APIs, 10 workflow stages, 8 core modules and 3 role-based portals.
+- Repository: https://github.com/MonishGowdaSR/Vehicle-Service-Management
+
+### Task & Project Management System
+A MERN web application for project and task management, priority and status tracking, deadlines, authentication, protected routes and dashboards. The resume documents 15 REST APIs, 12 reusable React components, 5 functional modules and 3 protected dashboards.
+- Repository: https://github.com/MonishGowdaSR/Task-and-Project-Management-System
+
+### Resume Screening AI Agent
+A Streamlit-based tool that parses PDF, DOCX and TXT resumes, compares resume content with a job description using keyword matching and semantic similarity, applies weighted scoring and ranks candidates for human review.
+- Repository: https://github.com/MonishGowdaSR/resume-screening-ai-agent
+
+### Stock Market Analysis
+A Python desktop application for historical stock analysis, including closing-price trends, 50-day and 200-day moving averages, daily returns and correlation visualizations. The supplied dataset covers historical data from 2011–2021, not live market information.
+- Repository: https://github.com/MonishGowdaSR/stock-market-analysis-python
+
+## Professional links
+- Email: mailto:monish.gowda.sr.job@gmail.com
+- LinkedIn: https://www.linkedin.com/in/monishgowdasr/
+- GitHub: https://github.com/MonishGowdaSR
+- Resume: /resume/Monish_Gowda_S_R_Mern_Stack_Developer.pdf
+
+## Portfolio sections
+Home, About, Skills, Projects, Experience, Academic Background, Beyond Development and Contact.
+
+## Content integrity
+This profile describes an early-career developer and project work. The internship is not full-time employment. Technologies listed represent areas of practical exposure and development experience, with proficiency varying by technology. Project detail pages use owner-supplied cover artwork and genuine application screenshots. The homepage uses the owner-approved portrait.
